@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.15
+VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleSnake", "ConsoleSnake\ConsoleSnake.csproj", "{D5EB6F92-F34A-4AE1-9F7B-A88D414AE9AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicSnake", "GraphicSnake\GraphicSnake.csproj", "{A0AFBCDD-6BE4-4925-B135-4BE71174574E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsSnake", "WindowsFormsSnake\WindowsFormsSnake.csproj", "{E030BC67-D2B2-4172-9BB9-37FEB5033118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanvasSnake", "CanvasSnake\CanvasSnake.csproj", "{5DDE9775-D700-4323-A2AA-CC2C947A035D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{D5EB6F92-F34A-4AE1-9F7B-A88D414AE9AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5EB6F92-F34A-4AE1-9F7B-A88D414AE9AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5EB6F92-F34A-4AE1-9F7B-A88D414AE9AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0AFBCDD-6BE4-4925-B135-4BE71174574E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0AFBCDD-6BE4-4925-B135-4BE71174574E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0AFBCDD-6BE4-4925-B135-4BE71174574E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0AFBCDD-6BE4-4925-B135-4BE71174574E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E030BC67-D2B2-4172-9BB9-37FEB5033118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E030BC67-D2B2-4172-9BB9-37FEB5033118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E030BC67-D2B2-4172-9BB9-37FEB5033118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E030BC67-D2B2-4172-9BB9-37FEB5033118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DDE9775-D700-4323-A2AA-CC2C947A035D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DDE9775-D700-4323-A2AA-CC2C947A035D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DDE9775-D700-4323-A2AA-CC2C947A035D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DDE9775-D700-4323-A2AA-CC2C947A035D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
